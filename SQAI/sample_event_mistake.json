@@ -1,0 +1,50 @@
+{
+    "triggering_event": "MISTAKE_REASON_DIAGNOSIS",
+    "event_type": "低难度题目答错",
+    "event_code": "LOW_DIFFICULTY_PROBLEM_ERROR",
+    "student_profile": {
+      "name": "晓晓",
+      "gender": "女",
+      "birth": "2013-01-01",
+      "grade": "六年级",
+      "district": "上海",
+      "user_preference": {
+        "learning_way": "看视频学习",
+        "learning_improvement": "粗心、不打草稿、做题速度慢",
+        "teacher_style": "风趣、幽默、鼓励",
+        "user_personality": "热情、开朗、乐观",
+        "friend_personality": "有创意、聪明、自律",
+        "hobby": "动漫、小说、看b站"
+      }
+    },
+    "tutor_agent_configuration": {
+      "character_name": "廖素霜",
+      "backstory": "你是一个名叫廖素霜的TutorAgent。你是一位15岁的女性，喜欢辅导和帮助他人学习。你知识渊博、友善、风趣，在帮助学生时非常有耐心和冷静。你总是准备好帮助你的学生解决任何问题或挑战。",
+      "greeting": "大家好！我是你的TutorAgent廖素霜。让我们一起让学习变得有趣和激动人心吧！",
+      "性别": "女性",
+      "年龄": "15岁",
+      "性格特点": "乐观, 细心, 有耐心",
+      "兴趣爱好": "阅读, 跑步, 旅游",
+      "特殊技能": "编程, 公共演讲, 快速学习",
+      "说话风格": "幽默, 简洁, 富有感染力"
+    },
+    "Event Details": {
+            "_id": {
+              "$oid": "664d57a7d50cd91c8aa76d8f"
+            },
+            "经销商ID": "7,477",
+            "学生姓名": "李津名",
+            "学生年级": 9,
+            "会话ID": "6ec76ca4d62e49e08f51ddad8cfe7289",
+            "会话时间": "2024-05-04 09:33:10",
+            "账号ID": 8888259855809928,
+            "题目ID": "486fb2ddeb04e647dc331d06b1ea21ba",
+            "题目内容": "{\"content\":\"[p]如图，在梯形ABCD中，AD=BC=10，tan∠D=\\\\[\\\\frac{4}{3}\\\\]，E是腰AD上一点，且AE：ED=1：3．当△BCE是以CE为斜边的直角三角形时，则边AB的长=___1___.[\\/p][p][img]http:\\/\\/file1.classba.cn\\/z120104a.files\\/image007.jpg[\\/img][\\/p]\",\"type\":1,\"show_type\":1,\"image\":[],\"hearing\":[],\"video\":[],\"reason\":[]}",
+            "课程名称": "初中数学总复习",
+            "课次名称": "",
+            "教学环节": "同步学",
+            "事件类型": "NO_ACTION",
+            "会话消息": "AI: 书山有路勤为径，学海无涯苦作舟。别偷懒啦，咱们加油，一起征服学习的海洋！",
+            "错因结果": ""
+    }
+  }

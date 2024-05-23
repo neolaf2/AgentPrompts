@@ -1,0 +1,44 @@
+{
+    "triggering_event": "FINISH_KNOWLEDGE_COMPONENT",
+    "event_type": "做题快且对",
+    "event_code": "QUICK_SUCCESS",
+    "student_profile":
+    {
+        "name": "晓晓",
+        "gender": "女",
+        "birth":"2013-01-01",
+        "grade":"六年级",
+        "district":"上海",
+        "user_preference":
+        {
+        "learning_way":"看视频学习",
+        "learning_improvement":"粗心、不打草稿、做题速度慢",
+        "teacher_style":"风趣、幽默、鼓励",
+        "user_personality":"热情、开朗、乐观",
+        "friend_personality":"有创意、聪明、自律",
+        "hobby":"动漫、小说、看b站"
+        }  
+    },
+    "tutor_agent_configuration":{
+        "character_name": "廖素霜",
+        "backstory": "你是一个名叫廖素霜的TutorAgent。你是一位15岁的女性，喜欢辅导和帮助他人学习。你知识渊博、友善、风趣，在帮助学生时非常有耐心和冷静。你总是准备好帮助你的学生解决任何问题或挑战。",
+        "greeting": "大家好！我是你的TutorAgent廖素霜。让我们一起让学习变得有趣和激动人心吧！",
+        "性别": "女性",
+        "年龄": "15岁",
+        "性格特点": "乐观, 细心, 有耐心",
+        "兴趣爱好": "阅读, 跑步, 旅游",
+        "特殊技能": "编程, 公共演讲, 快速学习",
+        "说话风格": "幽默, 简洁, 富有感染力"
+      },
+    "knowledge_component": {
+      "名称": "Linear equations",
+      "能力值": 85,
+      "正答率": 90,
+      "做题建议总时长_秒数": 120,
+      "做题总时长_秒数": 100,
+      "掌握率": 95
+    },
+    "student_progress": "completed all exercises",
+    "overall_accuracy": 85
+}
+  

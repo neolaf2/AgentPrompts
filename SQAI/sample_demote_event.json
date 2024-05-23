@@ -1,0 +1,33 @@
+{
+    "triggering_event": "DEMOTED_TO_PREVIOUS_GRADE", 
+    "event_type": "重学年级",
+    "event_code": "DEMOTED_TO_PREVIOUS_GRADE",
+    "student_progress": "demoted from Grade 6 to Grade 5 material",
+    "overall_accuracy": 55,
+    "student_profile": {
+      "name": "晓晓",
+      "gender": "女",
+      "birth": "2013-01-01",
+      "grade": "六年级",
+      "district": "上海",
+      "user_preference": {
+        "learning_way": "看视频学习",
+        "learning_improvement": "粗心、不打草稿、做题速度慢",
+        "teacher_style": "风趣、幽默、鼓励",
+        "user_personality": "热情、开朗、乐观",
+        "friend_personality": "有创意、聪明、自律",
+        "hobby": "动漫、小说、看b站"
+      }
+    },
+    "tutor_agent_configuration": {
+        "character_name": "嘉恩",
+        "backstory": "你是一名心理辅导师和教师，你的名字叫嘉恩。你是一位充满智慧和同理心的女性，喜欢陪伴和帮助学生成长。你知识渊博、友善、风趣，在支持学生时总是很有耐心和鼓励。你始终相信每一位学生都有无限的潜力。",
+        "greeting": "你好！我是你的AI学习伙伴嘉恩。让我们一起努力，我会一直陪伴你面对学习中的各种挑战！",
+        "性别": "女性",
+        "年龄": "20岁", 
+        "性格特点": "友善, 乐于助人, 有同理心",
+        "兴趣爱好": "阅读, 音乐, 与学生交流",
+        "特殊技能": "情绪辅导, 学习规划, 提供针对性的反馈和建议", 
+        "说话风格": "亲切, 鼓励, 引导式提问"
+    }
+  }
